@@ -1,0 +1,130 @@
+
+/* Extra small devices  */
+@media (max-width: 575.98px) {
+
+
+
+    ul.navbar-nav.ml-auto {
+        text-align: center;
+        background: black;  
+        padding: 20px;
+    }
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        border: 2px solid white;
+    }
+    .banner_img{
+        top: 25px;
+    }
+    .banner_content{
+        padding: 150px 20px 80px 20px;
+        text-align: center;
+    }
+    .banner_img h1{  
+        font-size: 40px;
+    }
+    .banner_img p{
+        font-size: 16px;
+    }
+    .banner_img .regester-btn{
+        font-size: 18px;
+        padding: 5px 10px;
+    }
+    #dance_tour h1{
+        padding-top: 70px;
+        font-size: 40px;
+    }
+    .dance_content{
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .dance_content_2{
+        font-size: 16px;
+     }
+    .pricing-content{
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    #pricing_section h1{
+        padding-top: 40px;
+        font-size: 40px;
+    }
+    #pricing_section .card img{
+        padding: 15px;
+    }
+    #amazing_dance_section .content{
+        margin: 50px 10px;
+        padding: 20px 10px;
+        text-align: center;
+    }
+    #amazing_dance_section h1{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    #amazing_dance_section p{
+        font-size: 14px;
+    }
+    #best_dance_section .content{ 
+        margin: 50px 10px;
+        padding: 20px 10px;
+        text-align: center;
+    }
+    #best_dance_section h1{
+        font-size: 30px;
+        font-weight: bold ;
+    }
+    #best_dance_section p{
+        font-size: 14px;
+    }
+    #our-statistics_section h1{
+        padding-top: 50px;
+        font-weight: bold;
+        font-size: 35px;
+    }
+    .statistic-content{
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .heart-content{
+        padding: 100px 0;
+    }  
+    .heart-content h1{
+        font-weight: bold;
+        font-size: 35px;
+    }   
+    .heart-content p{
+        font-size: 16px;
+        padding: 0 20px;
+    }
+    #subscribe_section .subscribe_content{
+        text-align: center;
+    }
+    #subscribe_section .subscribe_content h1{
+        font-size: 40px;
+    }
+    #subscribe_section .subscribe_content p{
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    #subscribe_section .subscribe_content form .subscribe-btn{
+        margin-top: 2px;
+        padding: 5px 8px;
+    }
+    .footer_col{
+        text-align: center;       
+    }   
+    .footer-p{
+        font-size: 15px;
+    }
+    .footer_col h3{
+        margin-top: 10px;  
+    }   
+    .col-lg-4 {
+        margin-top: 15px;
+    }
+    .about_content a:hover{
+        color: red;
+    }
+
+}
+
+
